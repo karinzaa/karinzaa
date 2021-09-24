@@ -4,6 +4,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
+<img align="right" src="https://github.com/karinzaa/karinzaa/blob/main/Cover.png"  width="300"></img>
+
+<p align="center">
+<p>💮Karinzaa! カリンザア!💮</p> 
+<p>🇹🇭泰日工業大学の学生🇯🇵 🎊PSM GRAPH58! </p> 
+<p>👩‍💻PSMCOM! 👩‍💻TNI IT13! CYBERSEC CLUB! </p> 
+<p>🎏14022000</p> 
+</p>
+<br>	
+	
+	
+	
+	
 ### 🔥 Streak
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -15,7 +28,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=1F222E&text_color=F8D866&hide_border=true">
 </p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="karinzaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karinzaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Karinzaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karinzaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## :wrench: Tools
 
