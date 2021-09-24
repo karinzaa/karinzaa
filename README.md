@@ -3,16 +3,15 @@
    Welcome to my profile.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-
+<br>
 <img align="right" src="https://github.com/karinzaa/karinzaa/blob/main/Cover.png"  width="280"></img>
-
 <p align="center">
 <p>💮Karinzaa! カリンザア!💮</p> 
 <p>🇹🇭泰日工業大学の学生🇯🇵 🎊PSM GRAPH58! </p> 
 <p>👩‍💻PSMCOM! 👩‍💻TNI IT13! CYBERSEC CLUB! </p> 
 <p>🎏14022000</p> 
 </p>
-<br>	
+</br>	
 	
 	
 	
