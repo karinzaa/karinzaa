@@ -26,7 +26,7 @@
 
 ### 📊 Github Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=1F222E&text_color=F8D866&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=0d1116&text_color=F8D866&hide_border=true">
 </p>
 
 ## 🛠 Tools
