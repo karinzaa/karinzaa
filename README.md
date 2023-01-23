@@ -25,7 +25,7 @@
 
 ### 📊 Github Stats
 <p align="center">
-<img src="https://readme-stats.clckblog.space/api/top-langs/?username=karinzaa&layout=compact&langs_count=20&bg_color=20222e&text_color=F8D866&hide_border=true">
+<img src="https://readme-stats.clckblog.space/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=20222e&text_color=F8D866&hide_border=true">
 </p>
 <!--
 <p href="https://github.com/karinzaa/github-readme-stats">
