@@ -9,8 +9,7 @@
 <p align="center">
 <p>💮Karinzaa! カリンザア!💮</p> 
 <p>🇹🇭泰日工業大学の学生🇯🇵 🎊PSM GRAPH58! </p> 
-<p>👩‍💻PSMCOM! 👩‍💻TNI IT13! CYBERSEC CLUB! </p> 
-<p>🎏14022000</p> 
+<p>👩‍💻PSMCOM! 👩‍💻TNI IT13! CYBERSEC CLUB! </p>
 </p>
 </br>	
 		
