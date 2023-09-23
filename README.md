@@ -1,6 +1,4 @@
-<h1 align="center">
-    👋Hi there👋
-</h1>
+<h1 align="center">👋Hi there👋</h1>
 
 <br>
 <img align="right" src="https://github.com/karinzaa/karinzaa/blob/main/KARINZAALCGitHub.png"  width="500"></img>
