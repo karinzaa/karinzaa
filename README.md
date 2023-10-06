@@ -70,7 +70,7 @@
 
 ### 💻 OS
 <p align="center">
-	<img src="https://img.shields.io/badge/Android-00000?style=for-the-badge&logo=android&logoColor=white">
+	<img src="https://img.shields.io/badge/Android-27CC7B?style=for-the-badge&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 	<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
