@@ -7,14 +7,14 @@
 </p>
 </br>	
 		
-<!--	
+	
 ### 🔥 Streak
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="Master's streak" src="https://streak-stats.demolab.com/?user=karinzaa&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
--->
+
 
 ### 📊 Github Stats
 <p align="center">
