@@ -64,7 +64,7 @@
 
 </p>
 
-### 📑 Editors & Notebooks
+### 📝 Editors & Notebooks
 <p align="center">
 	<img src="https://img.shields.io/badge/Eclipse-4000FF.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 	<img src="https://img.shields.io/badge/Google%20Colab-F9BB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=black">
@@ -75,7 +75,7 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 	
-### 📝 Version Control
+### 📑 Version Control
 <p align="center">
 	<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white">
