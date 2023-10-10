@@ -42,15 +42,21 @@
 	<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
-### 🔌 Frameworks & Libaries
+### 🔌 Frameworks, Libaries & Platform
 <p align="center">
 	<img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white">
 	<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 	<img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
 	<img src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white">
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+	<img src="https://img.shields.io/badge/Eclipse-4000FF.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+	<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white">
+	<img src="https://img.shields.io/badge/gitlab-FF6600.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+	<img src="https://img.shields.io/badge/Google%20Colab-F9BB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=black">
+	<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 	<img src="https://img.shields.io/badge/Jekyll-CC0000.svg?style=for-the-badge&logo=Jekyll&logoColor=white">
-	<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
 	<img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 	<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -61,44 +67,25 @@
 	<img src="https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white">
 	<img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 	<img src="https://img.shields.io/badge/Tor%20Project-7D4698.svg?style=for-the-badge&logo=Tor-Project&logoColor=white">
-
-</p>
-
-### 📝 Editors & Notebooks
-<p align="center">
-	<img src="https://img.shields.io/badge/Eclipse-4000FF.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-	<img src="https://img.shields.io/badge/Google%20Colab-F9BB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=black">
-	<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
 	<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</p>
-	
-### 📑 Version Control
-<p align="center">
-	<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-	<img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/gitlab-FF6600.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+	<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
-### 💻 OS
+
+### 💻 OS & Hardware
 <p align="center">
 	<img src="https://img.shields.io/badge/Android-27CC7B?style=for-the-badge&logo=android&logoColor=white">
+	<img src="https://img.shields.io/badge/ASUS-000000.svg?style=for-the-badge&logo=ASUS&logoColor=white">
 	<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 	<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-</p>
-
-### 🖥 Hardware
-<p align="center">
-	<img src="https://img.shields.io/badge/ASUS-000000.svg?style=for-the-badge&logo=ASUS&logoColor=white">
-	<img src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black">
 	<img src="https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white">
 	<img src="https://img.shields.io/badge/Mikrotik-293239.svg?style=for-the-badge&logo=Mikrotik&logoColor=white">
+	<img src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black">
 	<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white">
 	<img src="https://img.shields.io/badge/Sony-000000.svg?style=for-the-badge&logo=Sony&logoColor=white">
-
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
+
