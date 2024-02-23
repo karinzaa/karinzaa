@@ -10,15 +10,24 @@
 		
 ### 🔥 Streak
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Master's streak" src="https://streak-stats.demolab.com?user=karinzaa&theme=monokai-metallian&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly"/>
+<!--
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+ -->
+  <a href="Streak">
+    <img src="https://streak-stats.demolab.com?user=karinzaa&theme=monokai-metallian&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly"/>
   </a>
 </p>
 
 ### 📊 Github Stats
-
 <p align="center">
-<img src="https://readme-stats.clckblog.space/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=20222e&text_color=F8D866&hide_border=true">
+  <a href="Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=20222e&text_color=F8D866&hide_border=true">
+	<!--
+	  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=20222e&text_color=F8D866&hide_border=true">
+	-->
+     </br>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karinzaa&theme=rose_pine">
+   </a>
 </p>
 <!--
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
