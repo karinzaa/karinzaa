@@ -3,7 +3,7 @@
 <br>
 <img align="right" src="https://github.com/karinzaa/karinzaa/blob/main/KARINZAALCGitHub.png"  width="500"></img>
 <p align="center">
-<p>I am Karin from Nonthaburi, Thailand. Master of Engineering TAIST-Tokyo Tech, Artificial Intelligence and Internet of Things student. I Interest in 👩‍💻Cybersecurity, 📡Network, 📱IoT, 💻Computer & Electronic Hardware, & 🤖AI. I like to explore the world🔭🌏</p>
+<p>I am Karin from Nonthaburi, Thailand. Master of Engineering TAIST-Tokyo Tech, Artificial Intelligence and Internet of Things student. Interest in 👩‍💻Cybersecurity, 📡Network, 📱IoT, 💻Computer & Electronic Hardware, & 🤖AI. I like to explore the world🔭🌏</p>
 </p>
 </br>
 
