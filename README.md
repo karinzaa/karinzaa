@@ -1,12 +1,11 @@
 <h1 align="center">👋ようこそ!👋</h1>
 
 <br>
-<img align="right" src="https://github.com/karinzaa/karinzaa/blob/main/KARINZAALCGitHub.png"  width="500"></img>
+<img src="https://github.com/karinzaa/karinzaa/blob/main/KARINZAALCGitHub.png"  width="auto"></img>
 <p align="center">
-<p>I am Karin from Nonthaburi, Thailand. Master of Engineering TAIST-Tokyo Tech, Artificial Intelligence and Internet of Things student. Interest in 👩‍💻Cybersecurity, 📡Network, 📱IoT, 💻Computer & Electronic Hardware, & 🤖AI. I like to explore the world🔭🌏</p>
+I am Karin from Nonthaburi, Thailand. Master of Engineering TAIST-Tokyo Tech, Artificial Intelligence and Internet of Things student. Interest in 👩‍💻Cybersecurity, 📡Network, 📱IoT, 💻Computer & Electronic Hardware, & 🤖AI. I like to explore the world🔭🌏</p>
 </p>
 </br>
-
 		
 ### 🔥 Streak
 <p align="center">
