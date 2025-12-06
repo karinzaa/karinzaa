@@ -23,7 +23,9 @@ I am Karin from Nonthaburi, Thailand. Master of Engineering TAIST-Tokyo Tech, Ar
 ### 📊 Github Stats
 <p align="center">
   <a href="Stats"></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=20222e&text_color=F8D866&hide_border=true">
+    <!--
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=20222e&text_color=F8D866&hide_border=true">
+	-->
 	<!--
 	  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=20222e&text_color=F8D866&hide_border=true">
 	-->
