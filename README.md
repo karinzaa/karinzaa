@@ -3,7 +3,7 @@
 <br>
 <img src="https://github.com/karinzaa/karinzaa/blob/main/KARINZAALCGitHub.png"  width="auto"></img>
 <p align="center">
-I am Karin from Nonthaburi, Thailand. Master of Engineering TAIST-Tokyo Tech, Artificial Intelligence and Internet of Things student. Interest in 👩‍💻Cybersecurity, 📡Network, 📱IoT, 💻Computer & Electronic Hardware, & 🤖AI. I like to explore the world🔭🌏</p>
+I am Karin from Nonthaburi, Thailand. Master of Engineering graduate in Artificial Intelligence and Internet of Things from TAIST–Science Tokyo, with research experience in AI, computer vision, IoT systems, cybersecurity, and technical advisory. Interest in 👩‍💻Cybersecurity, 📡Network, 📱IoT, 💻Computer & Electronic Hardware, & 🤖AI. I like to explore the world🔭🌏</p>
 </p>
 </br>
 <!--	
@@ -20,18 +20,22 @@ I am Karin from Nonthaburi, Thailand. Master of Engineering TAIST-Tokyo Tech, Ar
 </p> 
 -->
 
+
+<!--
 ### 📊 Github Stats
 <p align="center">
   <a href="Stats"></a>
-    <!--
+   
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=20222e&text_color=F8D866&hide_border=true">
-	-->
-	<!--
+
 	  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=karinzaa&layout=compact&langs_count=10&bg_color=20222e&text_color=F8D866&hide_border=true">
-	-->
+	
      </br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karinzaa&theme=rose_pine">
+
 </p>
+-->
+
 <!--
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
 <p href="https://github.com/karinzaa/github-readme-stats">
